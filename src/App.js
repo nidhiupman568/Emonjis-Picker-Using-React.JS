@@ -13,7 +13,7 @@ export default function Emoji() {
  
     return (
         <div>
-            <h3>GeeksforGeeks Emoji Picker</h3>
+            <h3> Emoji Picker Using React.JS - By Nidhi Upman</h3>
             {chosenEmoji ? (
                 <span>
                     Your Emoji:
